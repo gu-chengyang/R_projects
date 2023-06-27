@@ -15,5 +15,5 @@
 - `tidyverse`
 - `quanteda`
 - `httr` and `jsonlite`
-- `sqlite`
+- `RSQlite` and `DBI`
 - Others for individual projects
